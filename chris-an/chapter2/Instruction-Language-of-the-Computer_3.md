@@ -134,13 +134,17 @@ ARM : 임베디드 시스템에서 가장 많이 사용하고 MIPS 와 많이 �
 ![](image/intelProcessor_register.png)
 
 #### *Addressing Modes 도 복잡하다.*
+
 *(x86 의 주소 표현 방식 : instruction 마다 2개의 operand 가 존재*
+
 ![](image/addressingModes.png)
 
 *Memory addressing models : 가장 큰 차이점은 일반적인 메모리에서 addressing 이 가능하다는 점이 있고, 아주 복잡하다.*
+
 ![](image/memoryAddressingModel.png)
 
 *x86 instruction Encoding* : 다양한 길이의 encoding(MIPS 는 명령어의 길이가 32bit 로 고정), 가변적이다.
+
 ![](image/instructionEncode.png)
 
 
